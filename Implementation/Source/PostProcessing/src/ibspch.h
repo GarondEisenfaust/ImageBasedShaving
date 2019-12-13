@@ -1,0 +1,11 @@
+#pragma once
+#include <memory>
+#include <regex>
+#include <vector>
+#include <iostream>
+#include <string>
+#include <filesystem>
+#include <algorithm>
+#include <utility>
+#include <opencv2/opencv.hpp>
+#include <opencv2/imgproc/imgproc.hpp>

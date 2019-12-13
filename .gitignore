@@ -1,0 +1,11 @@
+**/Bin
+**/obj
+**/*.sln
+**/*.vcxproj*
+**/*.vs
+**/*.vscode
+**/*.pdb
+**/*_extracted*.jpg
+**/Thumbs.db
+
+Implementation/Dependencies/OpenCV_Compiled/

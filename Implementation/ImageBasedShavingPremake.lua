@@ -1,0 +1,15 @@
+workspace "ImageBasedShaving"
+    configurations {"Debug","Release","ReleaseDev"}
+    architecture "x86_64"
+    startproject "ImageBasedShavingCli"
+
+    include "Source/ImageBasedShavingCli"
+    include "Source/ImageBasedShaving"
+    include "Source/FaceExtraction"
+    include "Source/FaceExtractionViewer"
+    include "Source/MatrixCreator"
+    include "Source/MassBeardExtractor"
+    include "Source/PostProcessor"
+    include "Source/Util"
+    include "Source/PostProcessing"
+    include "Source/PCA"

@@ -1,0 +1,10 @@
+[submodule "Implementation/Dependencies/spdlog"]
+	path = Implementation/Dependencies/spdlog
+	url = https://github.com/GarondEisenfaust/spdlog.git
+[submodule "Implementation/Dependencies/OpenCV"]
+	path = Implementation/Dependencies/OpenCV
+	url = https://github.com/opencv/opencv.git
+	ignore = dirty
+[submodule "Implementation/Dependencies/OpenCV_contrib"]
+	path = Implementation/Dependencies/OpenCV_contrib
+	url = https://github.com/opencv/opencv_contrib.git
